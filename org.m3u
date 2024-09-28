@@ -1,0 +1,147 @@
+#EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels2
+#EXTM3U url-tvg="https://www.tdtchannels.com/epg/TV.xml.gz"
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+#EXTINF:-1 tvg-id="La1.TV" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="Generalistas" tvg-name="La 1",La 1
+https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8
+#EXTINF:-1 tvg-id="ES| M+ #VAMOS FHD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#VAMOS",#VAMOS
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/165882
+#EXTINF:-1 tvg-id="ES| M+ #0 FHD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#0",#0
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/165866
+#EXTINF:-1 tvg-id="ES| DAZN 1 ESPAÑA HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#DAZN 1",#DAZN 1
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/165068
+#EXTINF:-1 tvg-id="ES| DAZN 2 ESPAÑA HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#DAZN 2",#DAZN 2
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/165070
+#EXTINF:-1 tvg-id="ES| DAZN 3 ESPAÑA HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#DAZN 3",#DAZN 3
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/379046
+#EXTINF:-1 tvg-id="ES| DAZN 4 ESPAÑA HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#DAZN 4",#DAZN 4
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/379047
+#EXTINF:-1 tvg-id="ES| DAZN 1 ESPAÑA SD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#DAZN 1",#DAZN 1
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400218246
+#EXTINF:-1 tvg-id="ES| DAZN 2 ESPAÑA SD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#DAZN 2",#DAZN 2
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400218228
+#EXTINF:-1 tvg-id="ES| DAZN 3 ESPAÑA SD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#DAZN 3",#DAZN 3
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400218227
+#EXTINF:-1 tvg-id="ES| DAZN 4 ESPAÑA SD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#DAZN 4",#DAZN 4
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400218226
+#EXTINF:-1 tvg-id="ES| DAZN 1 ESPAÑA FHD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#DAZN 1",#DAZN 1
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/360194
+#EXTINF:-1 tvg-id="ES| DAZN 2 ESPAÑA FHD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#DAZN 2",#DAZN 2
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/360195
+#EXTINF:-1 tvg-id="ES| DAZN 3 ESPAÑA FHD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#DAZN 3",#DAZN 3
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/379042
+#EXTINF:-1 tvg-id="ES| DAZN 4 ESPAÑA FHD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#DAZN 4",#DAZN 4
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/379043
+#EXTINF:-1 tvg-id="ES| DAZN 1 ESPAÑA HEVC" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#DAZN 1",#DAZN 1
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/360196
+#EXTINF:-1 tvg-id="ES| DAZN 2 ESPAÑA HEVC" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#DAZN 2",#DAZN 2
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/360197
+#EXTINF:-1 tvg-id="ES| DAZN 3 ESPAÑA HEVC" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#DAZN 3",#DAZN 3
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/379044
+#EXTINF:-1 tvg-id="ES| DAZN 4 ESPAÑA HEVC" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="#DAZN 4",#DAZN 4
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/379045
+#EXTINF:-1 tvg-id="ES| DAZN LA LIGA 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="DAZN LA LIGA 1",DAZN LA LIGA 1
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400440768
+#EXTINF:-1 tvg-id="ES| DAZN LA LIGA 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="DAZN LA LIGA 2",DAZN LA LIGA 2
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400440767
+#EXTINF:-1 tvg-id="ES| DAZN LA LIGA 1 SD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="DAZN LA LIGA 1",DAZN LA LIGA 1
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/21098
+#EXTINF:-1 tvg-id="ES| DAZN LA LIGA 2 SD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="DAZN LA LIGA 2",DAZN LA LIGA 2
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/21099
+#EXTINF:-1 tvg-id="ES| DAZN LA LIGA 1 FHD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="DAZN LA LIGA 1",DAZN LA LIGA 1
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400440766
+#EXTINF:-1 tvg-id="ES| DAZN LA LIGA 2 FHD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="DAZN LA LIGA 2",DAZN LA LIGA 2
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400440765
+#EXTINF:-1 tvg-id="ES| DAZN LA LIGA 1 HEVC" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="DAZN LA LIGA 1",DAZN LA LIGA 1
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/33569
+#EXTINF:-1 tvg-id="ES| DAZN LA LIGA 2 HEVC" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="DAZN LA LIGA 2",DAZN LA LIGA 2
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/33568
+#EXTINF:-1 tvg-id="ES| M+ LIGA DE CAMPEONES 1 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LIGA DE CAMPEONES 1",M+ LIGA DE CAMPEONES 1
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/165968
+#EXTINF:-1 tvg-id="ES| M+ LIGA DE CAMPEONES 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LIGA DE CAMPEONES 2",M+ LIGA DE CAMPEONES 2
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/375702
+#EXTINF:-1 tvg-id="ES| M+ LIGA DE CAMPEONES 3 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LIGA DE CAMPEONES 3",M+ LIGA DE CAMPEONES 3
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400173248
+#EXTINF:-1 tvg-id="ES| M+ LIGA DE CAMPEONES 4 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LIGA DE CAMPEONES 4",M+ LIGA DE CAMPEONES 4
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400173249
+#EXTINF:-1 tvg-id="ES| M+ LIGA DE CAMPEONES 5 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LIGA DE CAMPEONES 5",M+ LIGA DE CAMPEONES 5
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400173250
+#EXTINF:-1 tvg-id="ES| M+ LIGA DE CAMPEONES 1 SD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LIGA DE CAMPEONES 1",M+ LIGA DE CAMPEONES 1
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400218282
+#EXTINF:-1 tvg-id="ES| M+ LIGA DE CAMPEONES 2 SD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LIGA DE CAMPEONES 2",M+ LIGA DE CAMPEONES 2
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400230644
+#EXTINF:-1 tvg-id="ES| M+ LIGA DE CAMPEONES 1 FHD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LIGA DE CAMPEONES 1",M+ LIGA DE CAMPEONES 1
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/187582
+#EXTINF:-1 tvg-id="ES| M+ LIGA DE CAMPEONES 2 FHD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LIGA DE CAMPEONES 2",M+ LIGA DE CAMPEONES 2
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/187584
+#EXTINF:-1 tvg-id="ES| M+ LCAMPEONS 4K" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LCAMPEONS 4K",M+ LCAMPEONS 4K
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400241868
+#EXTINF:-1 tvg-id="ES| M+ LIGA DE CAMPEONES 1 HEVC" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LIGA DE CAMPEONES 1",M+ LIGA DE CAMPEONES 1
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/189457
+#EXTINF:-1 tvg-id="ES| M+ LIGA DE CAMPEONES 2 HEVC" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LIGA DE CAMPEONES 2",M+ LIGA DE CAMPEONES 2
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/375700
+
+#EXTINF:-1 tvg-id="ES| M+ LALIGA HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA HD",M+ LALIGA HD
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/165970
+#EXTINF:-1 tvg-id="ES| M+ LALIGA 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA 2",M+ LALIGA 2
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/5971
+#EXTINF:-1 tvg-id="ES| M+ LALIGA 3 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA 3",M+ LALIGA 3
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/5973
+#EXTINF:-1 tvg-id="ES| M+ LALIGA 4 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA 4",M+ LALIGA 4
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400220785
+#EXTINF:-1 tvg-id="ES| M+ LALIGA 5 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA 5",M+ LALIGA 5
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400220783
+#EXTINF:-1 tvg-id="ES| M+ LALIGATV BAR SD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA BAR",M+ LALIGA BAR
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/10816
+#EXTINF:-1 tvg-id="ES| M+ LALIGA SD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA HD",M+ LALIGA HD
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400218244
+#EXTINF:-1 tvg-id="ES| M+ LALIGA 2 SD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA 2",M+ LALIGA 2
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400218242
+#EXTINF:-1 tvg-id="ES| M+ LALIGA 3 SD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA 3",M+ LALIGA 3
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400218241
+#EXTINF:-1 tvg-id="ES| M+ LaLiga 4 SD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA 4",M+ LALIGA 4
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/39855
+#EXTINF:-1 tvg-id="ES| M+ LALIGATV BAR FHD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA BAR",M+ LALIGA BAR
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400267408
+#EXTINF:-1 tvg-id="ES| M+ LALIGA FHD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA HD",M+ LALIGA HD
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/165885
+#EXTINF:-1 tvg-id="ES| M+ LALIGA 2 FHD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA 2",M+ LALIGA 2
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/187555
+#EXTINF:-1 tvg-id="ES| M+ LALIGA 3 FHD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA 3",M+ LALIGA 3
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/187556
+#EXTINF:-1 tvg-id="ES| M+ LALIGA 4 FHD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA 4",M+ LALIGA 4
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/187557
+#EXTINF:-1 tvg-id="ES| M+ LALIGA 5 FHD (SOLO EVENTO)" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA 5",M+ LALIGA 5
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/187558
+#EXTINF:-1 tvg-id="ES| M+ LALIGA 6 FHD (SOLO EVENTO)" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA 6",M+ LALIGA 6
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/187559
+#EXTINF:-1 tvg-id="ES| M+ LALIGA 4K" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA 4K",M+ LALIGA 4K
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400241867
+#EXTINF:-1 tvg-id="ES| M+ LALIGA HEVC" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA HD",M+ LALIGA HD
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/189459
+#EXTINF:-1 tvg-id="ES| M+ LALIGA 2 HEVC" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA 2",M+ LALIGA 2
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/9460
+#EXTINF:-1 tvg-id="ES| M+ LALIGA 3 HEVC" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA 3",M+ LALIGA 3
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/9461
+#EXTINF:-1 tvg-id="ES| M+ LALIGA 4 HEVC" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ LALIGA 4",M+ LALIGA 4
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/9462
+#EXTINF:-1 tvg-id="ES| M+ DEPORTES HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ DEPORTES HD",M+ DEPORTES HD
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400220795
+#EXTINF:-1 tvg-id="ES| M+ DEPORTES 2 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ DEPORTES2 HD",M+ DEPORTES2 HD
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/155790
+#EXTINF:-1 tvg-id="ES| M+ DEPORTES 3 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ DEPORTES3 HD",M+ DEPORTES3 HD
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/155791
+#EXTINF:-1 tvg-id="ES| M+ DEPORTES 4 HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="M+ DEPORTES4 HD",M+ DEPORTES4 HD
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400277208
+#EXTINF:-1 tvg-id="ES| DAZN F1 ESPAÑA HD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="DAZN F1 ESPAÑA HD",DAZN F1 ESPAÑA HD
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/165973
+#EXTINF:-1 tvg-id="ES| DAZN F1 ESPAÑA SD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="DAZN F1 ESPAÑA HD",DAZN F1 ESPAÑA HD
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400218225
+#EXTINF:-1 tvg-id="ES| DAZN F1 ESPAÑA FHD" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="DAZN F1 ESPAÑA HD",DAZN F1 ESPAÑA HD
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/165888
+#EXTINF:-1 tvg-id="ES| DAZN F1 ESPAÑA HEVC" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="DAZN F1 ESPAÑA HD",DAZN F1 ESPAÑA HD
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/189462
+#EXTINF:-1 tvg-id="ES| DAZN F1 ESPAÑA 4K" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="DEPORTES" tvg-name="DAZN F1 ESPAÑA HD",DAZN F1 ESPAÑA HD
+http://cqwmbas.mant2021.xyz:80/3524551080/5927040741/400241869
